@@ -1,0 +1,1 @@
+#define GEOM_RED(a, r, n) ((a) * (1 - pow((r), (n))) / (1 - (r)))

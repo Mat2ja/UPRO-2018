@@ -1,0 +1,5 @@
+Upisite 4 cijela broja (po jednu znamenku) > z1 = 1
+z2 = 9
+z3 = 9
+z4 = 9
+m = 1999

@@ -1,0 +1,23 @@
+  5 -2 4 12
+ 34.0EEE1.500000
+  5.11
+
+AB
+
+
+int i1, i2, i3, i4;
+float x1, x2;
+char s1[10], s2[10], c1, c2, c3;
+scanf("%d %d %d%d", &i1, &i2, &i3, &i4);
+printf("%3d %d %d %d\n", i1, i2, i3, i4);
+fscanf(stdin, "%f%f", &x1, &x2);
+fprintf(stderr, "%5.1fEEE%f\n", x1, x2);
+scanf("%5s %s", s1, s2);
+fprintf(stdout, "%s%s\n", s1, s2);
+scanf("%c %c %c", &c1, &c2, &c3);
+printf("%c%c%c", c1, c2, c3);
+
+ulaz.txt
+5-24
+12341.55.11
+ABCDEFG0123456

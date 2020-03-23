@@ -1,0 +1,4 @@
+# | Kategorija                     |  Vrijednost |
+--+--------------------------------+-------------+
+0 | Mali predmeti                  |        0.00 |
+1 | Veliki predmeti                |        0.00 |
